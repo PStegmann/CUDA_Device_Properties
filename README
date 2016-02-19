@@ -1,0 +1,3 @@
+CUDA script to determine the number and properties of the NVidia GPUs used by a computer.
+Compile as follows:
+:~/nvcc -lcudart CUDA_Device_Properties.cu
